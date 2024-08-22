@@ -9,15 +9,15 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Birat Budhathoki</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I'm a full-stack developer having experience of using frontend and backend skills such as HTML/CSS/JS, React and
+          NodeJS and database like MySql and NoSql. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:biratbudhathoki79@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/me.png.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

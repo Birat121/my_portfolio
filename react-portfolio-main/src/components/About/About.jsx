@@ -6,10 +6,10 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/boy.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -19,8 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I am a passionate frontend developer skilled in creating responsive, user-friendly web interfaces using React, Tailwind CSS, and JavaScript.
               </p>
             </div>
           </li>
@@ -29,18 +28,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              I am a dedicated backend developer with expertise in building scalable and efficient server-side applications using Node.js, Express.js, and MongoDB.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Database</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I am a proficient database developer experienced in designing and managing relational and NoSQL databases as well.
               </p>
             </div>
           </li>
