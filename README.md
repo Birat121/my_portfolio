@@ -3,5 +3,5 @@
 <p> I have included my projects i have made, skills i have and social media links in order to connect with me</p>
 <div>
   <h2> My portfolio Website</h2>
-  <h2> Link: https://alphavir-portfolio.netlify.app/</h2>
+  <h2> Link: https://alphavir.netlify.app//</h2>
 </div>
