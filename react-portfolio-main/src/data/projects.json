@@ -4,23 +4,20 @@
     "imageSrc": "projects/digital.png",
     "description": "The main goals of the project are to build reliable e-wallet that can load money from both traditional bank accounts and cryptocurrency accounts, an easy-to-use website for safe digital currency trading",
     "skills": ["HTML/CSS", "JS", "Node","Mongodb"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://drive.google.com/drive/folders/1TVRMvblk4xxM8gkUDG8U4g5eD_uJcaSy?usp=drive_link"
   },
   {
     "title": "Market Basket Analysis",
     "imageSrc": "projects/market.png",
     "description": "It entails examining consumer purchasing patterns to find correlations between frequently purchased items.In order to improve sales performance MBA is frequently used in the retail, e-commerce, and marketing industries.",
     "skills": ["K-means", "FP-growth", "Apriori"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://drive.google.com/drive/folders/1s85v3HcwOzurHyTT1UHUmprN9bx33AuL?usp=drive_link"
   },
   {
     "title": "Hostel Management System ",
     "imageSrc": "projects/hostel.png",
     "description": "This project is a comprehensive Hostel Management System built using (MongoDB, Express.js, React, and Node.js). This solution is aimed at providing efficient, centralized control over hostel activities enhancing the resident experience.",
     "skills": ["React", "Express", "Mongodb","Tailwind"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Birat121/frontend_app"
   }
 ]
