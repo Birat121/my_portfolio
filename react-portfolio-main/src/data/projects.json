@@ -3,21 +3,21 @@
     "title": "Online Currency Trading using Digital wallet and cryptocurrency",
     "imageSrc": "projects/digital.png",
     "description": "The main goals of the project are to build reliable e-wallet that can load money from both traditional bank accounts and cryptocurrency accounts, an easy-to-use website for safe digital currency trading",
-    "skills": ["HTML/CSS", "JS", "Node","Mongodb"],
-    "source": "https://drive.google.com/drive/folders/1TVRMvblk4xxM8gkUDG8U4g5eD_uJcaSy?usp=drive_link"
+    "skills": ["HTML/CSS", "JS", "Node","Mongodb"]
+    
   },
   {
-    "title": "Market Basket Analysis",
+    "title": "E-commerce website",
     "imageSrc": "projects/market.png",
-    "description": "It entails examining consumer purchasing patterns to find correlations between frequently purchased items.In order to improve sales performance MBA is frequently used in the retail, e-commerce, and marketing industries.",
-    "skills": ["K-means", "FP-growth", "Apriori"],
-    "source": "https://drive.google.com/drive/folders/1s85v3HcwOzurHyTT1UHUmprN9bx33AuL?usp=drive_link"
+    "description": "Developed a fully responsive e-commerce landing page using React and CSS, ensuring seamless user experience across all devices. The site features an intuitive interface,efficient navigation, and modern design, optimized for performance and user engagement.",
+    "skills": ["React.js","CSS"]
+    
   },
   {
-    "title": "Hostel Management System ",
-    "imageSrc": "projects/hostel.png",
-    "description": "This project is a comprehensive Hostel Management System built using (MongoDB, Express.js, React, and Node.js). This solution is aimed at providing efficient, centralized control over hostel activities enhancing the resident experience.",
-    "skills": ["React", "Express", "Mongodb","Tailwind"],
-    "source": "https://github.com/Birat121/frontend_app"
+    "title": "Food delivery app",
+    "imageSrc": "projects/food-del.webp",
+    "description": "Developed a full-stack food delivery application with features like user authentication, real-time order tracking, and dynamic menu management, utilizing the MERN stack for seamless performance and scalability.",
+    "skills": ["React", "Express", "Mongodb","CSS"]
+    
   }
 ]
